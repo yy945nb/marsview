@@ -1,0 +1,8 @@
+# SQLite 数据库文件（运行时生成）
+*.db
+*.db-shm
+*.db-wal
+
+# 编译产物
+marsview-server
+server
